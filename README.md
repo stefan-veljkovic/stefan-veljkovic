@@ -71,13 +71,13 @@
 		<div width="fit-content" align="center">
 			<img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/>
 			<img width="50" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mocikto" title="mocikto"/>
-			<img width="50" src="https://raw.githubusercontent.com/xunit/media/refs/heads/main/full-logo.svg" alt="xUnit" title="xUnit"/>
+			<img width="65" height="50" src="https://raw.githubusercontent.com/xunit/media/refs/heads/main/full-logo.svg" alt="xUnit" title="xUnit"/>
 			<img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/>
 			<img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/>
 			<img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
 			<img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
 			<img width="50" src="https://github.com/user-attachments/assets/e7e793ae-34cd-4970-ad48-8effd2d89e64" alt="Test containers" title="Test containers"/>
-			<img width="50" src="https://miro.medium.com/v2/resize:fit:1400/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" title="TestNG"/>
+			<img width="75" height="50" src="https://miro.medium.com/v2/resize:fit:1400/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" title="TestNG"/>
 		</div>
 			<h2>Package management</h2>
 		<div width="fit-content" align="center">
@@ -93,6 +93,7 @@
 		   	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/>
 		    <img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
 		   	<img width="50" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase"/>
+		   	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/>
   	  </div>
 		<h2>DevOps & Cloud</h2>
 	   <div width="fit-content" align="center">
@@ -103,8 +104,6 @@
 		   <img width="50" src="https://user-images.githubusercontent.com/25181517/190230082-55409fe9-d5a2-4f3d-bdba-0f0946190e67.png" alt="Loki" title="Loki"/>
 		   <img width="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/>
 	   </div>
-</section>
-<section align="center">
   <h1>IDE-s</h1>
   <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
@@ -114,6 +113,12 @@
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
 	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" title="Visual Studio"/>
   </div>
+	<h2>Operating systems</h2>
+   <div width="fit-content" align="center">
+	    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
+	    <img width="65" height="50" src="https://abopen.com/app/uploads/2018/04/debian-logo.jpg" alt="Debian" title="Debian"/>
+	    <img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+   </div>
 </section>
 
 
